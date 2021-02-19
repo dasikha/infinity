@@ -10,14 +10,37 @@ Infinity App is for students who need an auditory and visual style of learning. 
 
 ### Current Features
 
+- Landing page with Three.js
+- Solar System Scope embedded with iframe build by Solar System Scope
+- NASA API
+- Quiz component: 8 quiz questions with multiple choice answers
+- MessageForm component: Input form to send messages to the aliens
+- Random Quotes Generator API
+- 3D animation from Three.js
+
 ### Future Feature
 
+- Sign Up and Log In page for both Admin/Teacher/Parent and Student
+- Our own version of Solar System Scope using Three.js and Redux
+- Add gamification of lessons feature
+- Chatbox to interact with other users
+- Admin can alter/add other science subjects
+
 ## Database Schema and API
+
+- Database schema ![DB Schema](db_schema.png)
 
 ## API Routes Plan
 
 URI | HTTP Method | Description
 --- | ----------- | -----------
+/users/planets | GET | Retrieve all planets
+/users/planets/:id | GET | Retrieve all planets by id
+/users/message | GET | Retrieve all messages submitted
+/users/message | POST | Submit message into the database
+/users/quiz | GET | Retrieve all quiz
+/users/quiz | POST | Submit answers of the quiz
+/users/user | GET | Retrieve all users
 
 ### Dependencies
 
