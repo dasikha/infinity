@@ -1,6 +1,10 @@
 # Infinity
 
+Do aliens exist? Experience a fun visual learning of the solar system with our Infinity App. Join us on an exciting journey to infinity and beyond! 👽🚀✨
+
 ## Project Description
+
+Infinity App is for students who need an auditory and visual style of learning. The product is a learning platform that allows interactive learning with 3D and quiz of the solar system. Unlike books of static text-only websites. Our product helps making learning more fun and multi-sensory (during and post pandemic season)
 
 ## MVP
 
